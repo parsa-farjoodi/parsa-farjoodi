@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1> Hi there, my name is parsa👋</h1>
+
+<h2>About Me</h2>
+<ul>
+  <li>I'm a junior Front-end developer</li>
+  <li>I am currently trying to learn new technology</li>
+</ul>
 
 <!--
 **parsa-farjoodi/parsa-farjoodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Languages and Frameworks
+<h3>Languages and Frameworks:</h3>
 
 ![HTML5](https://img.shields.io/badge/HTML5-grey?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-grey?logo=css3)
