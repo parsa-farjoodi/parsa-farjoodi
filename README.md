@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 <ul>
   <li>I'm a junior Front-end developer</li>
-  <li>I am currently trying to learn new technology</li>
+  <li>I am currently trying to learn new technologies</li>
 </ul>
 
 <!--
