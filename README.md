@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML5-grey?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-grey?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-grey?logo=typescript)
 ![React](https://img.shields.io/badge/React-grey?logo=react)
 ![Sass](https://img.shields.io/badge/Sass-grey?logo=sass)
 ![Git](https://img.shields.io/badge/git-grey?logo=git)
