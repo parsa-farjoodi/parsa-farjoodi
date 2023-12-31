@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-grey?logo=bootstrap)
 ![Jquery](https://img.shields.io/badge/jquery-grey?logo=jquery)
 ![Tailwindcss](https://img.shields.io/badge/tailwindcss-grey?logo=tailwindcss)
+![Npm](https://img.shields.io/badge/npm-grey?logo=npm)
 
